@@ -19,6 +19,7 @@ This project aims to provide:
 
 The `q` command causes `eddy.py` to exit. For example:
 
+`sh`
 seq 1 5 | python eddy.py '3q'
 1
 2
